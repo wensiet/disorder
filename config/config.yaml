@@ -1,0 +1,7 @@
+database:
+  dsn: "db/files.db" # examples of dsn are here: https://gorm.io/docs/connecting_to_the_database.html
+bucket:
+  size: 26214400 # bucket size in Bytes
+discord:
+  token: bot-token # generated discord bot token
+  channel: 123123 # channel id where bot will send messages
